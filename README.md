@@ -11,6 +11,12 @@ Proyek ini adalah sistem pengenalan emosi wajah manusia yang dibangun menggunaka
 
 Proyek ini mengimplementasikan teknik **Transfer Learning** menggunakan tiga arsitektur State-of-the-Art (SOTA) untuk membandingkan performa terbaik: **ResNet-18**, **EfficientNet-B0**, dan **MobileNet-V2**.
 
+### Arsitektur Model
+
+![CNN Architecture for Emotion Recognition](./assets/cnn_architecture.png)
+
+*Gambar: Alur data melalui jaringan konvolusi multi-layer dan fully connected layers untuk klasifikasi 7 emosi*
+
 ---
 
 ## 🚀 Fitur Utama
